@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'O Papai mais feliz do Mundo - Igor',
+    title: 'My Portfolio',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
